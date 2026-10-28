@@ -1,0 +1,80 @@
+{"id": 1378, "tags": ["greedy", "implementation"], "ok": true, "latency_s": 5.26, "input_tokens": 1239, "output_tokens": 22, "thinking_tokens": 300, "total_tokens": 1561}
+{"id": 3098, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true, "latency_s": 6.18, "input_tokens": 1636, "output_tokens": 30, "thinking_tokens": 461, "total_tokens": 2127}
+{"id": 3123, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true, "latency_s": 9.69, "input_tokens": 1689, "output_tokens": 31, "thinking_tokens": 894, "total_tokens": 2614}
+{"id": 1347, "tags": ["dfs and similar", "graphs", "implementation"], "ok": true, "latency_s": 13.95, "input_tokens": 1426, "output_tokens": 29, "thinking_tokens": 1213, "total_tokens": 2668}
+{"id": 3080, "tags": ["dp", "graphs", "shortest paths"], "ok": true, "latency_s": 13.96, "input_tokens": 1685, "output_tokens": 28, "thinking_tokens": 1281, "total_tokens": 2994}
+{"id": 1413, "tags": ["dfs and similar", "dp", "trees"], "ok": true, "latency_s": 4.89, "input_tokens": 1264, "output_tokens": 29, "thinking_tokens": 333, "total_tokens": 1626}
+{"id": 1394, "tags": ["greedy", "implementation", "math", "number theory"], "ok": true, "latency_s": 10.68, "input_tokens": 1140, "output_tokens": 33, "thinking_tokens": 1097, "total_tokens": 2270}
+{"id": 3264, "tags": ["2-sat", "dfs and similar", "dsu", "graphs", "greedy"], "ok": true, "latency_s": 14.56, "input_tokens": 1776, "output_tokens": 42, "thinking_tokens": 1429, "total_tokens": 3247}
+{"id": 596, "tags": ["greedy", "implementation"], "ok": true, "latency_s": 7.37, "input_tokens": 1186, "output_tokens": 22, "thinking_tokens": 524, "total_tokens": 1732}
+{"id": 1448, "tags": ["bitmasks", "constructive algorithms", "interactive", "math"], "ok": true, "latency_s": 6.88, "input_tokens": 1420, "output_tokens": 35, "thinking_tokens": 395, "total_tokens": 1850}
+{"id": 3814, "tags": ["implementation", "sortings"], "ok": true, "latency_s": 5.63, "input_tokens": 1192, "output_tokens": 10, "thinking_tokens": 289, "total_tokens": 1491}
+{"id": 3783, "tags": ["math", "number theory"], "ok": true, "latency_s": 3.78, "input_tokens": 850, "output_tokens": 10, "thinking_tokens": 118, "total_tokens": 978}
+{"id": 288, "tags": ["dp", "greedy", "two pointers"], "ok": true, "latency_s": 4.43, "input_tokens": 3282, "output_tokens": 28, "thinking_tokens": 181, "total_tokens": 3491}
+{"id": 3593, "tags": ["brute force", "constructive algorithms", "data structures", "graphs"], "ok": true, "latency_s": 14.1, "input_tokens": 1534, "output_tokens": 37, "thinking_tokens": 829, "total_tokens": 2400}
+{"id": 4427, "tags": ["bitmasks", "math"], "ok": true, "latency_s": 3.23, "input_tokens": 944, "output_tokens": 23, "thinking_tokens": 127, "total_tokens": 1094}
+{"id": 1556, "tags": ["greedy", "implementation"], "ok": true, "latency_s": 8.09, "input_tokens": 1236, "output_tokens": 22, "thinking_tokens": 704, "total_tokens": 1962}
+{"id": 3732, "tags": ["constructive algorithms", "geometry", "interactive", "math"], "ok": true, "latency_s": 5.34, "input_tokens": 1086, "output_tokens": 17, "thinking_tokens": 344, "total_tokens": 1447}
+{"id": 1545, "tags": ["math", "number theory"], "ok": true, "latency_s": 12.65, "input_tokens": 1205, "output_tokens": 10, "thinking_tokens": 323, "total_tokens": 1538}
+{"id": 633, "tags": ["data structures", "greedy"], "ok": true, "latency_s": 3.81, "input_tokens": 1562, "output_tokens": 23, "thinking_tokens": 246, "total_tokens": 1831}
+{"id": 1611, "tags": ["constructive algorithms", "greedy", "math"], "ok": true, "latency_s": 3.25, "input_tokens": 1158, "output_tokens": 14, "thinking_tokens": 132, "total_tokens": 1304}
+{"id": 3626, "tags": ["brute force", "dfs and similar", "graphs", "shortest paths"], "ok": true, "latency_s": 11.37, "input_tokens": 2184, "output_tokens": 37, "thinking_tokens": 983, "total_tokens": 3204}
+{"id": 1615, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true, "latency_s": 4.81, "input_tokens": 1292, "output_tokens": 15, "thinking_tokens": 340, "total_tokens": 1647}
+{"id": 1589, "tags": ["graphs", "shortest paths"], "ok": true, "latency_s": 16.79, "input_tokens": 1553, "output_tokens": 23, "thinking_tokens": 1436, "total_tokens": 3012}
+{"id": 1564, "tags": ["greedy", "implementation"], "ok": true, "latency_s": 20.51, "input_tokens": 1161, "output_tokens": 22, "thinking_tokens": 2061, "total_tokens": 3244}
+{"id": 4958, "tags": ["constructive algorithms", "greedy", "implementation", "math"], "ok": true, "latency_s": 12.5, "input_tokens": 1110, "output_tokens": 34, "thinking_tokens": 1304, "total_tokens": 2448}
+{"id": 1726, "tags": ["binary search", "bitmasks"], "ok": true, "latency_s": 3.81, "input_tokens": 1427, "output_tokens": 24, "thinking_tokens": 189, "total_tokens": 1640}
+{"id": 1163, "tags": ["geometry", "implementation", "math"], "ok": true, "latency_s": 6.16, "input_tokens": 1667, "output_tokens": 12, "thinking_tokens": 421, "total_tokens": 2100}
+{"id": 4270, "tags": ["binary search", "bitmasks", "dp", "strings"], "ok": true, "latency_s": 4.18, "input_tokens": 1455, "output_tokens": 17, "thinking_tokens": 269, "total_tokens": 1741}
+{"id": 1888, "tags": ["dfs and similar", "greedy", "trees"], "ok": true, "latency_s": 3.29, "input_tokens": 1408, "output_tokens": 14, "thinking_tokens": 176, "total_tokens": 1598}
+{"id": 4562, "tags": ["dp", "math", "probabilities"], "ok": true, "latency_s": 6.14, "input_tokens": 1405, "output_tokens": 12, "thinking_tokens": 180, "total_tokens": 1597}
+{"id": 734, "tags": ["games"], "ok": true, "latency_s": 4.9, "input_tokens": 989, "output_tokens": 17, "thinking_tokens": 185, "total_tokens": 1191}
+{"id": 2042, "tags": ["greedy", "sortings"], "ok": true, "latency_s": 3.49, "input_tokens": 1240, "output_tokens": 10, "thinking_tokens": 152, "total_tokens": 1402}
+{"id": 997, "tags": ["greedy"], "ok": true, "latency_s": 4.66, "input_tokens": 1315, "output_tokens": 6, "thinking_tokens": 304, "total_tokens": 1625}
+{"id": 807, "tags": ["greedy"], "ok": true, "latency_s": 3.7, "input_tokens": 778, "output_tokens": 6, "thinking_tokens": 206, "total_tokens": 990}
+{"id": 1894, "tags": ["implementation"], "ok": true, "latency_s": 7.84, "input_tokens": 1095, "output_tokens": 17, "thinking_tokens": 631, "total_tokens": 1743}
+{"id": 1215, "tags": ["dp", "greedy", "implementation"], "ok": true, "latency_s": 5.15, "input_tokens": 1484, "output_tokens": 27, "thinking_tokens": 254, "total_tokens": 1765}
+{"id": 790, "tags": ["dp", "math", "probabilities"], "ok": true, "latency_s": 5.25, "input_tokens": 1417, "output_tokens": 12, "thinking_tokens": 187, "total_tokens": 1616}
+{"id": 2152, "tags": ["implementation", "math"], "ok": true, "latency_s": 3.84, "input_tokens": 877, "output_tokens": 9, "thinking_tokens": 171, "total_tokens": 1057}
+{"id": 2111, "tags": ["constructive algorithms", "divide and conquer"], "ok": true, "latency_s": 7.17, "input_tokens": 924, "output_tokens": 26, "thinking_tokens": 747, "total_tokens": 1697}
+{"id": 2100, "tags": ["combinatorics", "math", "number theory"], "ok": true, "latency_s": 10.81, "input_tokens": 1270, "output_tokens": 29, "thinking_tokens": 800, "total_tokens": 2099}
+{"id": 2196, "tags": ["data structures"], "ok": true, "latency_s": 5.25, "input_tokens": 901, "output_tokens": 18, "thinking_tokens": 369, "total_tokens": 1288}
+{"id": 2355, "tags": ["greedy", "math"], "ok": true, "latency_s": 7.53, "input_tokens": 1404, "output_tokens": 22, "thinking_tokens": 582, "total_tokens": 2008}
+{"id": 4250, "tags": ["bitmasks", "constructive algorithms", "graphs"], "ok": true, "latency_s": 4.57, "input_tokens": 1991, "output_tokens": 30, "thinking_tokens": 262, "total_tokens": 2283}
+{"id": 3969, "tags": ["data structures", "dp", "greedy"], "ok": true, "latency_s": 14.96, "input_tokens": 1659, "output_tokens": 28, "thinking_tokens": 1273, "total_tokens": 2960}
+{"id": 214, "tags": ["greedy", "trees"], "ok": true, "latency_s": 8.68, "input_tokens": 1126, "output_tokens": 22, "thinking_tokens": 598, "total_tokens": 1746}
+{"id": 2369, "tags": ["dp", "implementation", "strings"], "ok": true, "latency_s": 10.23, "input_tokens": 934, "output_tokens": 27, "thinking_tokens": 932, "total_tokens": 1893}
+{"id": 620, "tags": ["math", "number theory"], "ok": true, "latency_s": 5.16, "input_tokens": 1349, "output_tokens": 23, "thinking_tokens": 280, "total_tokens": 1652}
+{"id": 2403, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true, "latency_s": 5.02, "input_tokens": 1767, "output_tokens": 31, "thinking_tokens": 310, "total_tokens": 2108}
+{"id": 1153, "tags": ["brute force", "implementation", "math"], "ok": true, "latency_s": 4.93, "input_tokens": 946, "output_tokens": 29, "thinking_tokens": 316, "total_tokens": 1291}
+{"id": 2459, "tags": ["greedy", "sortings"], "ok": true, "latency_s": 6.18, "input_tokens": 978, "output_tokens": 23, "thinking_tokens": 542, "total_tokens": 1543}
+{"id": 3892, "tags": ["binary search", "greedy", "math"], "ok": true, "latency_s": 60.97, "input_tokens": 1586, "output_tokens": 28, "thinking_tokens": 6851, "total_tokens": 8465}
+{"id": 490, "tags": ["binary search", "greedy", "math"], "ok": true, "latency_s": 5.56, "input_tokens": 1147, "output_tokens": 13, "thinking_tokens": 455, "total_tokens": 1615}
+{"id": 198, "tags": ["constructive algorithms", "math", "number theory"], "ok": true, "latency_s": 6.1, "input_tokens": 1439, "output_tokens": 30, "thinking_tokens": 503, "total_tokens": 1972}
+{"id": 1261, "tags": ["bitmasks", "greedy"], "ok": true, "latency_s": 8.75, "input_tokens": 1310, "output_tokens": 23, "thinking_tokens": 815, "total_tokens": 2148}
+{"id": 4191, "tags": ["greedy", "implementation"], "ok": true, "latency_s": 3.55, "input_tokens": 1675, "output_tokens": 9, "thinking_tokens": 181, "total_tokens": 1865}
+{"id": 180, "tags": ["brute force", "dp", "implementation", "math"], "ok": true, "latency_s": 3.78, "input_tokens": 943, "output_tokens": 17, "thinking_tokens": 171, "total_tokens": 1131}
+{"id": 4111, "tags": ["constructive algorithms", "sortings"], "ok": true, "latency_s": 11.14, "input_tokens": 1312, "output_tokens": 25, "thinking_tokens": 1035, "total_tokens": 2372}
+{"id": 2964, "tags": ["constructive algorithms", "greedy", "math"], "ok": true, "latency_s": 12.9, "input_tokens": 1606, "output_tokens": 29, "thinking_tokens": 1202, "total_tokens": 2837}
+{"id": 3865, "tags": ["games", "greedy"], "ok": true, "latency_s": 7.0, "input_tokens": 1391, "output_tokens": 22, "thinking_tokens": 554, "total_tokens": 1967}
+{"id": 2921, "tags": ["data structures", "implementation", "strings"], "ok": true, "latency_s": 5.89, "input_tokens": 1406, "output_tokens": 28, "thinking_tokens": 471, "total_tokens": 1905}
+{"id": 4635, "tags": ["data structures", "dp"], "ok": true, "latency_s": 10.64, "input_tokens": 1797, "output_tokens": 23, "thinking_tokens": 873, "total_tokens": 2693}
+{"id": 130, "tags": ["brute force"], "ok": true, "latency_s": 18.11, "input_tokens": 1572, "output_tokens": 19, "thinking_tokens": 1916, "total_tokens": 3507}
+{"id": 2692, "tags": ["constructive algorithms", "greedy", "sortings"], "ok": true, "latency_s": 5.68, "input_tokens": 1497, "output_tokens": 30, "thinking_tokens": 486, "total_tokens": 2013}
+{"id": 4941, "tags": ["greedy", "math"], "ok": true, "latency_s": 23.8, "input_tokens": 1143, "output_tokens": 22, "thinking_tokens": 2571, "total_tokens": 3736}
+{"id": 413, "tags": ["binary search", "greedy", "sortings", "two pointers"], "ok": true, "latency_s": 4.81, "input_tokens": 1120, "output_tokens": 35, "thinking_tokens": 89, "total_tokens": 1244}
+{"id": 2551, "tags": ["brute force", "math"], "ok": true, "latency_s": 4.88, "input_tokens": 977, "output_tokens": 11, "thinking_tokens": 267, "total_tokens": 1255}
+{"id": 2888, "tags": ["binary search", "math", "two pointers"], "ok": true, "latency_s": 6.81, "input_tokens": 1658, "output_tokens": 29, "thinking_tokens": 568, "total_tokens": 2255}
+{"id": 297, "tags": ["data structures", "dfs and similar", "greedy", "strings", "trees"], "ok": true, "latency_s": 31.45, "input_tokens": 1598, "output_tokens": 40, "thinking_tokens": 3426, "total_tokens": 5064}
+{"id": 776, "tags": ["bitmasks", "brute force", "geometry"], "ok": true, "latency_s": 12.09, "input_tokens": 1346, "output_tokens": 15, "thinking_tokens": 1341, "total_tokens": 2702}
+{"id": 319, "tags": ["binary search", "greedy", "sortings", "ternary search", "two pointers"], "ok": true, "latency_s": 5.67, "input_tokens": 1087, "output_tokens": 42, "thinking_tokens": 576, "total_tokens": 1705}
+{"id": 2965, "tags": ["greedy", "sortings"], "ok": true, "latency_s": 8.58, "input_tokens": 1555, "output_tokens": 23, "thinking_tokens": 679, "total_tokens": 2257}
+{"id": 2827, "tags": ["constructive algorithms", "greedy", "math"], "ok": true, "latency_s": 14.38, "input_tokens": 1530, "output_tokens": 29, "thinking_tokens": 1467, "total_tokens": 3026}
+{"id": 826, "tags": ["greedy", "sortings"], "ok": true, "latency_s": 3.2, "input_tokens": 1187, "output_tokens": 10, "thinking_tokens": 162, "total_tokens": 1359}
+{"id": 2845, "tags": ["constructive algorithms", "greedy", "two pointers"], "ok": true, "latency_s": 5.11, "input_tokens": 1950, "output_tokens": 30, "thinking_tokens": 467, "total_tokens": 2447}
+{"id": 3966, "tags": ["constructive algorithms", "trees"], "ok": true, "latency_s": 6.58, "input_tokens": 2451, "output_tokens": 24, "thinking_tokens": 400, "total_tokens": 2875}
+{"id": 2486, "tags": ["data structures", "dp"], "ok": true, "latency_s": 40.4, "input_tokens": 2031, "output_tokens": 23, "thinking_tokens": 4522, "total_tokens": 6576}
+{"id": 2809, "tags": ["greedy", "strings"], "ok": true, "latency_s": 4.11, "input_tokens": 1061, "output_tokens": 22, "thinking_tokens": 243, "total_tokens": 1326}
+{"id": 455, "tags": ["implementation", "math"], "ok": true, "latency_s": 6.5, "input_tokens": 987, "output_tokens": 9, "thinking_tokens": 549, "total_tokens": 1545}
+{"id": 1036, "tags": ["brute force", "expression parsing", "implementation"], "ok": true, "latency_s": 6.46, "input_tokens": 1007, "output_tokens": 15, "thinking_tokens": 671, "total_tokens": 1693}
+{"id": 3045, "tags": ["implementation", "math"], "ok": true, "latency_s": 4.66, "input_tokens": 1140, "output_tokens": 9, "thinking_tokens": 291, "total_tokens": 1440}

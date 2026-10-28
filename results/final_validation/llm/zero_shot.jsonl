@@ -1,0 +1,797 @@
+{"id": 1, "tags": ["greedy", "number theory"], "ok": true}
+{"id": 31, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 45, "tags": ["math", "probabilities"], "ok": true}
+{"id": 28, "tags": ["geometry", "math"], "ok": true}
+{"id": 47, "tags": ["implementation", "math"], "ok": true}
+{"id": 64, "tags": ["dfs and similar", "dsu", "graphs"], "ok": true}
+{"id": 56, "tags": ["binary search", "constructive algorithms", "greedy", "sortings"], "ok": true}
+{"id": 52, "tags": ["dp", "greedy", "implementation"], "ok": true}
+{"id": 38, "tags": ["combinatorics", "dp", "math"], "ok": true}
+{"id": 76, "tags": ["implementation", "strings"], "ok": true}
+{"id": 69, "tags": ["constructive algorithms", "divide and conquer"], "ok": true}
+{"id": 98, "tags": ["binary search", "math"], "ok": true}
+{"id": 78, "tags": ["implementation"], "ok": true}
+{"id": 100, "tags": ["implementation", "math"], "ok": true}
+{"id": 84, "tags": ["greedy", "implementation", "math"], "ok": true}
+{"id": 103, "tags": ["greedy", "two pointers"], "ok": true}
+{"id": 116, "tags": ["implementation"], "ok": true}
+{"id": 112, "tags": ["binary search", "sortings", "two pointers"], "ok": true}
+{"id": 117, "tags": ["constructive algorithms"], "ok": true}
+{"id": 119, "tags": ["dp", "implementation", "sortings"], "ok": true}
+{"id": 131, "tags": ["binary search", "greedy", "implementation"], "ok": true}
+{"id": 135, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 139, "tags": ["data structures", "implementation"], "ok": true}
+{"id": 130, "tags": ["brute force", "greedy", "math"], "ok": true}
+{"id": 141, "tags": ["greedy", "math", "sortings"], "ok": true}
+{"id": 156, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 157, "tags": ["binary search", "greedy", "two pointers"], "ok": true}
+{"id": 153, "tags": ["greedy", "sortings", "ternary search"], "ok": true}
+{"id": 150, "tags": ["data structures"], "ok": true}
+{"id": 166, "tags": ["data structures", "math", "number theory"], "ok": true}
+{"id": 191, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 180, "tags": ["dp", "implementation", "math"], "ok": true}
+{"id": 160, "tags": ["implementation"], "ok": true}
+{"id": 198, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 192, "tags": ["implementation"], "ok": true}
+{"id": 199, "tags": ["binary search", "strings"], "ok": true}
+{"id": 207, "tags": ["implementation", "sortings"], "ok": true}
+{"id": 215, "tags": ["greedy", "math"], "ok": true}
+{"id": 209, "tags": ["data structures", "games"], "ok": true}
+{"id": 227, "tags": ["dfs and similar", "graphs"], "ok": true}
+{"id": 226, "tags": ["greedy", "math"], "ok": true}
+{"id": 203, "tags": ["flows"], "ok": true}
+{"id": 14, "tags": ["brute force", "math", "number theory", "strings"], "ok": true}
+{"id": 214, "tags": ["graphs", "greedy"], "ok": true}
+{"id": 250, "tags": ["implementation", "strings"], "ok": true}
+{"id": 267, "tags": ["greedy", "math"], "ok": true}
+{"id": 251, "tags": ["constructive algorithms", "strings"], "ok": true}
+{"id": 237, "tags": ["greedy", "implementation", "strings"], "ok": true}
+{"id": 275, "tags": ["games"], "ok": true}
+{"id": 276, "tags": ["brute force", "implementation", "strings"], "ok": true}
+{"id": 280, "tags": ["implementation", "strings"], "ok": true}
+{"id": 304, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 288, "tags": ["dp", "greedy", "two pointers"], "ok": true}
+{"id": 286, "tags": ["geometry", "sortings"], "ok": true}
+{"id": 307, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 297, "tags": ["data structures", "dfs and similar", "greedy", "strings", "trees"], "ok": true}
+{"id": 331, "tags": ["bitmasks", "constructive algorithms"], "ok": true}
+{"id": 310, "tags": ["constructive algorithms", "graphs", "greedy", "sortings"], "ok": true}
+{"id": 319, "tags": ["binary search", "greedy", "sortings", "two pointers"], "ok": true}
+{"id": 408, "tags": ["constructive algorithms", "graphs", "trees"], "ok": true}
+{"id": 351, "tags": ["greedy", "strings"], "ok": true}
+{"id": 372, "tags": ["dp", "greedy"], "ok": true}
+{"id": 313, "tags": ["greedy"], "ok": true}
+{"id": 413, "tags": ["binary search", "greedy", "sortings", "two pointers"], "ok": true}
+{"id": 421, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 420, "tags": ["constructive algorithms", "strings"], "ok": true}
+{"id": 410, "tags": ["implementation", "strings"], "ok": true}
+{"id": 425, "tags": ["implementation", "strings"], "ok": true}
+{"id": 458, "tags": ["binary search", "greedy", "math"], "ok": true}
+{"id": 455, "tags": ["binary search", "implementation", "math"], "ok": true}
+{"id": 459, "tags": ["dp", "greedy", "sortings"], "ok": true}
+{"id": 445, "tags": ["implementation"], "ok": true}
+{"id": 461, "tags": ["greedy", "math"], "ok": true}
+{"id": 478, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 472, "tags": ["combinatorics", "math", "strings"], "ok": true}
+{"id": 480, "tags": ["constructive algorithms"], "ok": true}
+{"id": 448, "tags": ["constructive algorithms", "implementation", "strings"], "ok": true}
+{"id": 482, "tags": ["sortings", "strings"], "ok": true}
+{"id": 485, "tags": ["brute force", "math"], "ok": true}
+{"id": 490, "tags": ["binary search", "greedy", "math"], "ok": true}
+{"id": 496, "tags": ["math"], "ok": true}
+{"id": 493, "tags": ["dp", "games"], "ok": true}
+{"id": 511, "tags": ["geometry", "greedy", "math"], "ok": true}
+{"id": 514, "tags": ["dp", "greedy", "strings"], "ok": true}
+{"id": 429, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 540, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 529, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 553, "tags": ["math", "number theory"], "ok": true}
+{"id": 497, "tags": ["data structures", "dfs and similar", "implementation"], "ok": true}
+{"id": 551, "tags": ["binary search", "constructive algorithms", "math"], "ok": true}
+{"id": 580, "tags": ["greedy", "implementation", "strings"], "ok": true}
+{"id": 578, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 554, "tags": ["constructive algorithms", "graphs", "number theory", "shortest paths"], "ok": true}
+{"id": 581, "tags": ["math", "number theory"], "ok": true}
+{"id": 561, "tags": ["dp", "greedy"], "ok": true}
+{"id": 582, "tags": ["brute force", "greedy", "implementation", "sortings"], "ok": true}
+{"id": 593, "tags": ["implementation", "sortings"], "ok": true}
+{"id": 588, "tags": ["greedy"], "ok": true}
+{"id": 597, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 596, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 610, "tags": ["combinatorics", "dp", "math", "number theory"], "ok": true}
+{"id": 620, "tags": ["math", "number theory"], "ok": true}
+{"id": 627, "tags": ["greedy"], "ok": true}
+{"id": 633, "tags": ["constructive algorithms", "data structures", "greedy"], "ok": true}
+{"id": 630, "tags": ["brute force", "data structures", "implementation"], "ok": true}
+{"id": 644, "tags": ["data structures", "greedy", "implementation"], "ok": true}
+{"id": 639, "tags": ["dp", "graphs", "greedy", "shortest paths"], "ok": true}
+{"id": 674, "tags": ["dfs and similar", "dsu", "graphs", "trees"], "ok": true}
+{"id": 669, "tags": ["dfs and similar", "dsu", "graphs"], "ok": true}
+{"id": 660, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 684, "tags": ["implementation"], "ok": true}
+{"id": 634, "tags": ["greedy", "math"], "ok": true}
+{"id": 687, "tags": ["brute force", "greedy", "implementation", "math"], "ok": true}
+{"id": 707, "tags": ["dp"], "ok": true}
+{"id": 697, "tags": ["binary search", "implementation", "two pointers"], "ok": true}
+{"id": 691, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 721, "tags": ["data structures", "dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 715, "tags": ["data structures", "dfs and similar", "dsu", "graphs"], "ok": true}
+{"id": 683, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 752, "tags": ["implementation"], "ok": true}
+{"id": 730, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 755, "tags": ["data structures", "greedy", "sortings"], "ok": true}
+{"id": 734, "tags": ["dp", "games"], "ok": true}
+{"id": 774, "tags": ["implementation"], "ok": true}
+{"id": 756, "tags": ["geometry", "math"], "ok": true}
+{"id": 568, "tags": ["data structures", "implementation"], "ok": true}
+{"id": 778, "tags": ["data structures", "sortings"], "ok": true}
+{"id": 765, "tags": ["greedy"], "ok": true}
+{"id": 775, "tags": ["constructive algorithms", "dp", "greedy"], "ok": true}
+{"id": 794, "tags": ["implementation", "math"], "ok": true}
+{"id": 800, "tags": ["implementation", "strings"], "ok": true}
+{"id": 802, "tags": ["constructive algorithms", "trees"], "ok": true}
+{"id": 790, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 807, "tags": ["greedy"], "ok": true}
+{"id": 811, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 826, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 814, "tags": ["trees"], "ok": true}
+{"id": 829, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 813, "tags": ["dp", "implementation"], "ok": true}
+{"id": 842, "tags": ["binary search", "implementation"], "ok": true}
+{"id": 776, "tags": ["bitmasks", "brute force", "geometry"], "ok": true}
+{"id": 859, "tags": ["implementation", "math"], "ok": true}
+{"id": 833, "tags": ["implementation", "math"], "ok": true}
+{"id": 861, "tags": ["data structures", "implementation", "sortings"], "ok": true}
+{"id": 869, "tags": ["bitmasks", "greedy", "math"], "ok": true}
+{"id": 873, "tags": ["greedy", "math", "number theory"], "ok": true}
+{"id": 848, "tags": ["dfs and similar", "dp", "graphs"], "ok": true}
+{"id": 881, "tags": ["data structures", "dfs and similar", "dsu", "trees"], "ok": true}
+{"id": 877, "tags": ["dp", "greedy"], "ok": true}
+{"id": 891, "tags": ["math", "implementation"], "ok": true}
+{"id": 896, "tags": ["implementation"], "ok": true}
+{"id": 909, "tags": ["math", "number theory"], "ok": true}
+{"id": 914, "tags": ["greedy"], "ok": true}
+{"id": 936, "tags": ["binary search", "greedy", "ternary search"], "ok": true}
+{"id": 940, "tags": ["brute force", "implementation", "strings"], "ok": true}
+{"id": 945, "tags": ["implementation"], "ok": true}
+{"id": 925, "tags": ["implementation"], "ok": true}
+{"id": 978, "tags": ["data structures", "greedy", "implementation"], "ok": true}
+{"id": 982, "tags": ["constructive algorithms"], "ok": true}
+{"id": 872, "tags": ["data structures", "dp", "graphs"], "ok": true}
+{"id": 997, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 949, "tags": ["binary search", "math", "sortings"], "ok": true}
+{"id": 1029, "tags": ["greedy", "math", "number theory"], "ok": true}
+{"id": 1008, "tags": ["constructive algorithms", "interactive", "math", "two pointers"], "ok": true}
+{"id": 1031, "tags": ["greedy", "math"], "ok": true}
+{"id": 1066, "tags": ["dp", "implementation"], "ok": true}
+{"id": 1050, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1052, "tags": ["dp", "strings"], "ok": true}
+{"id": 1036, "tags": ["brute force", "expression parsing", "implementation"], "ok": true}
+{"id": 1026, "tags": ["binary search", "dfs and similar", "interactive", "trees"], "ok": true}
+{"id": 1069, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 1074, "tags": ["math"], "ok": true}
+{"id": 1087, "tags": ["implementation", "strings"], "ok": true}
+{"id": 1077, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 1088, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 1085, "tags": ["math"], "ok": true}
+{"id": 1092, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 1106, "tags": ["implementation", "strings"], "ok": true}
+{"id": 1116, "tags": ["binary search", "geometry", "math"], "ok": true}
+{"id": 1128, "tags": ["implementation", "math"], "ok": true}
+{"id": 1086, "tags": ["greedy", "math"], "ok": true}
+{"id": 1110, "tags": ["greedy", "implementation", "strings"], "ok": true}
+{"id": 1133, "tags": ["brute force", "constructive algorithms", "implementation", "math"], "ok": true}
+{"id": 1090, "tags": ["combinatorics", "data structures", "greedy"], "ok": true}
+{"id": 1153, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 1152, "tags": ["games", "math"], "ok": true}
+{"id": 1140, "tags": ["2-sat", "dfs and similar", "graphs"], "ok": true}
+{"id": 1163, "tags": ["geometry", "implementation", "math"], "ok": true}
+{"id": 1154, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 1180, "tags": ["graphs", "shortest paths"], "ok": true}
+{"id": 1137, "tags": ["binary search", "implementation", "sortings"], "ok": true}
+{"id": 1185, "tags": ["greedy", "sortings", "two pointers"], "ok": true}
+{"id": 1181, "tags": ["combinatorics", "strings"], "ok": true}
+{"id": 1192, "tags": ["constructive algorithms", "greedy", "implementation", "strings"], "ok": true}
+{"id": 1186, "tags": ["brute force", "greedy", "math"], "ok": true}
+{"id": 1199, "tags": ["geometry"], "ok": true}
+{"id": 1193, "tags": ["greedy", "strings"], "ok": true}
+{"id": 1204, "tags": ["brute force", "constructive algorithms", "dp", "hashing", "strings"], "ok": true}
+{"id": 1215, "tags": ["dp", "greedy", "implementation"], "ok": true}
+{"id": 1178, "tags": ["combinatorics", "data structures", "implementation"], "ok": true}
+{"id": 1214, "tags": ["greedy", "math", "number theory", "sortings"], "ok": true}
+{"id": 1224, "tags": ["greedy", "math"], "ok": true}
+{"id": 1231, "tags": ["math"], "ok": true}
+{"id": 1274, "tags": ["constructive algorithms", "greedy", "implementation", "math"], "ok": true}
+{"id": 1226, "tags": ["math", "number theory"], "ok": true}
+{"id": 1256, "tags": ["data structures", "divide and conquer"], "ok": true}
+{"id": 1279, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 1275, "tags": ["binary search", "greedy", "sortings"], "ok": true}
+{"id": 1295, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1291, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1261, "tags": ["bitmasks", "greedy"], "ok": true}
+{"id": 1316, "tags": ["geometry"], "ok": true}
+{"id": 1342, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 1347, "tags": ["dfs and similar", "graphs", "implementation"], "ok": true}
+{"id": 1378, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1355, "tags": ["dp", "greedy", "sortings"], "ok": true}
+{"id": 1394, "tags": ["greedy", "math", "number theory"], "ok": true}
+{"id": 1398, "tags": ["combinatorics", "greedy", "math", "strings"], "ok": true}
+{"id": 1320, "tags": ["data structures", "dp", "trees"], "ok": true}
+{"id": 1419, "tags": ["implementation"], "ok": true}
+{"id": 1413, "tags": ["dfs and similar", "dp", "trees"], "ok": true}
+{"id": 1427, "tags": ["binary search", "math"], "ok": true}
+{"id": 1429, "tags": ["brute force", "constructive algorithms", "dfs and similar", "dp", "graphs", "implementation", "trees"], "ok": true}
+{"id": 1434, "tags": ["brute force", "sortings", "strings"], "ok": true}
+{"id": 1435, "tags": ["greedy", "math"], "ok": true}
+{"id": 1437, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 1431, "tags": ["implementation"], "ok": true}
+{"id": 1439, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 1442, "tags": ["graphs", "shortest paths", "sortings"], "ok": true}
+{"id": 1448, "tags": ["bitmasks", "constructive algorithms", "interactive"], "ok": true}
+{"id": 1450, "tags": ["binary search", "data structures", "two pointers"], "ok": true}
+{"id": 1424, "tags": ["constructive algorithms", "math", "number theory", "sortings"], "ok": true}
+{"id": 1451, "tags": ["dp", "hashing", "strings"], "ok": true}
+{"id": 1492, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1491, "tags": ["implementation"], "ok": true}
+{"id": 1512, "tags": ["geometry", "math", "number theory"], "ok": true}
+{"id": 1545, "tags": ["math", "number theory"], "ok": true}
+{"id": 1542, "tags": ["greedy"], "ok": true}
+{"id": 1518, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1556, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1501, "tags": ["constructive algorithms", "games", "interactive", "math"], "ok": true}
+{"id": 1465, "tags": ["binary search", "brute force", "dp", "implementation"], "ok": true}
+{"id": 1572, "tags": ["divide and conquer", "dp", "greedy"], "ok": true}
+{"id": 1584, "tags": ["greedy", "math"], "ok": true}
+{"id": 1564, "tags": ["greedy", "strings"], "ok": true}
+{"id": 1603, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 1589, "tags": ["graphs", "greedy", "shortest paths"], "ok": true}
+{"id": 1610, "tags": ["implementation", "strings"], "ok": true}
+{"id": 1592, "tags": ["data structures", "dp", "two pointers"], "ok": true}
+{"id": 1611, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 1615, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 1586, "tags": ["math", "probabilities", "sortings", "two pointers"], "ok": true}
+{"id": 1623, "tags": ["math", "probabilities"], "ok": true}
+{"id": 1621, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 1627, "tags": ["math"], "ok": true}
+{"id": 1632, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 1608, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 1620, "tags": ["brute force", "math"], "ok": true}
+{"id": 1651, "tags": ["dfs and similar", "trees"], "ok": true}
+{"id": 1640, "tags": ["constructive algorithms", "dfs and similar", "greedy", "trees"], "ok": true}
+{"id": 1649, "tags": ["binary search", "interactive"], "ok": true}
+{"id": 1639, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1653, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1671, "tags": ["constructive algorithms", "trees"], "ok": true}
+{"id": 1672, "tags": ["greedy", "two pointers"], "ok": true}
+{"id": 1666, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 1681, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 1696, "tags": ["binary search", "dp"], "ok": true}
+{"id": 1684, "tags": ["dfs and similar", "dp", "graphs"], "ok": true}
+{"id": 1688, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 1702, "tags": ["data structures", "strings"], "ok": true}
+{"id": 1726, "tags": ["binary search", "bitmasks"], "ok": true}
+{"id": 1721, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 1745, "tags": ["bitmasks", "math"], "ok": true}
+{"id": 1723, "tags": ["implementation"], "ok": true}
+{"id": 1736, "tags": ["dp", "games"], "ok": true}
+{"id": 1754, "tags": ["implementation"], "ok": true}
+{"id": 1764, "tags": ["brute force", "greedy"], "ok": true}
+{"id": 1789, "tags": ["data structures", "divide and conquer", "sortings"], "ok": true}
+{"id": 1799, "tags": ["implementation"], "ok": true}
+{"id": 1739, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 1801, "tags": ["implementation", "math", "matrices"], "ok": true}
+{"id": 1833, "tags": ["dp", "graphs", "sortings"], "ok": true}
+{"id": 1837, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 1846, "tags": ["bitmasks", "constructive algorithms", "math"], "ok": true}
+{"id": 1815, "tags": ["binary search", "two pointers"], "ok": true}
+{"id": 1848, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 1849, "tags": ["brute force", "greedy", "math", "number theory"], "ok": true}
+{"id": 1853, "tags": ["greedy"], "ok": true}
+{"id": 1859, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1752, "tags": ["dp", "greedy", "string suffix structures", "strings"], "ok": true}
+{"id": 1862, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 1894, "tags": ["implementation"], "ok": true}
+{"id": 1888, "tags": ["dfs and similar", "greedy", "trees"], "ok": true}
+{"id": 1902, "tags": ["greedy", "two pointers"], "ok": true}
+{"id": 1870, "tags": ["constructive algorithms", "dfs and similar", "trees"], "ok": true}
+{"id": 1893, "tags": ["combinatorics", "math"], "ok": true}
+{"id": 1904, "tags": ["dfs and similar", "greedy", "trees"], "ok": true}
+{"id": 1928, "tags": ["data structures", "dsu"], "ok": true}
+{"id": 1898, "tags": ["constructive algorithms", "graphs", "greedy"], "ok": true}
+{"id": 1937, "tags": ["implementation", "strings"], "ok": true}
+{"id": 1953, "tags": ["binary search", "constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 1957, "tags": ["data structures", "dp"], "ok": true}
+{"id": 1910, "tags": ["games", "graphs", "greedy", "shortest paths"], "ok": true}
+{"id": 1977, "tags": ["combinatorics", "math"], "ok": true}
+{"id": 2004, "tags": ["implementation", "math"], "ok": true}
+{"id": 1958, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 2030, "tags": ["dfs and similar", "graphs"], "ok": true}
+{"id": 1982, "tags": ["binary search", "greedy", "sortings"], "ok": true}
+{"id": 2036, "tags": ["implementation", "sortings"], "ok": true}
+{"id": 2002, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2037, "tags": ["dp", "implementation"], "ok": true}
+{"id": 2039, "tags": ["implementation"], "ok": true}
+{"id": 2059, "tags": ["math", "number theory"], "ok": true}
+{"id": 2050, "tags": ["brute force", "implementation", "strings"], "ok": true}
+{"id": 2042, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2073, "tags": ["dfs and similar", "graphs", "greedy"], "ok": true}
+{"id": 2083, "tags": ["binary search", "data structures"], "ok": true}
+{"id": 2045, "tags": ["constructive algorithms", "dfs and similar", "graphs", "greedy", "trees"], "ok": true}
+{"id": 2085, "tags": ["math"], "ok": true}
+{"id": 2063, "tags": ["constructive algorithms", "dfs and similar", "dsu", "implementation"], "ok": true}
+{"id": 2095, "tags": ["brute force", "data structures", "math"], "ok": true}
+{"id": 2090, "tags": ["implementation"], "ok": true}
+{"id": 2057, "tags": ["binary search", "number theory"], "ok": true}
+{"id": 2105, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 2098, "tags": ["dp"], "ok": true}
+{"id": 2104, "tags": ["constructive algorithms", "dfs and similar", "graphs", "greedy", "strings"], "ok": true}
+{"id": 2109, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 2111, "tags": ["constructive algorithms", "divide and conquer", "geometry", "sortings"], "ok": true}
+{"id": 2117, "tags": ["games", "sortings"], "ok": true}
+{"id": 2110, "tags": ["implementation", "strings"], "ok": true}
+{"id": 2118, "tags": ["bitmasks", "constructive algorithms", "math"], "ok": true}
+{"id": 2123, "tags": ["geometry", "math"], "ok": true}
+{"id": 2121, "tags": ["combinatorics", "greedy", "math", "sortings", "two pointers"], "ok": true}
+{"id": 2135, "tags": ["greedy"], "ok": true}
+{"id": 2128, "tags": ["dfs and similar", "dp"], "ok": true}
+{"id": 2100, "tags": ["combinatorics", "math", "number theory", "two pointers"], "ok": true}
+{"id": 2138, "tags": ["binary search", "brute force", "greedy", "sortings", "two pointers"], "ok": true}
+{"id": 2155, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2152, "tags": ["implementation", "math"], "ok": true}
+{"id": 2186, "tags": ["constructive algorithms", "implementation"], "ok": true}
+{"id": 2148, "tags": ["implementation", "strings", "two pointers"], "ok": true}
+{"id": 2157, "tags": ["binary search", "brute force"], "ok": true}
+{"id": 2190, "tags": ["implementation", "math"], "ok": true}
+{"id": 2196, "tags": ["data structures"], "ok": true}
+{"id": 2221, "tags": ["bitmasks", "constructive algorithms", "dp"], "ok": true}
+{"id": 2197, "tags": ["implementation", "strings"], "ok": true}
+{"id": 2222, "tags": ["dfs and similar", "graphs"], "ok": true}
+{"id": 2192, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 2228, "tags": ["brute force", "two pointers"], "ok": true}
+{"id": 2255, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 2245, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 2214, "tags": ["binary search", "data structures", "two pointers"], "ok": true}
+{"id": 2284, "tags": ["dfs and similar", "dp", "trees"], "ok": true}
+{"id": 2238, "tags": ["binary search", "greedy"], "ok": true}
+{"id": 2300, "tags": ["graphs", "shortest paths"], "ok": true}
+{"id": 2314, "tags": ["graphs", "greedy", "shortest paths"], "ok": true}
+{"id": 2298, "tags": ["dfs and similar"], "ok": true}
+{"id": 2290, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 2315, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 2316, "tags": ["dfs and similar", "greedy", "trees"], "ok": true}
+{"id": 2321, "tags": ["constructive algorithms", "implementation", "sortings"], "ok": true}
+{"id": 2344, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 2350, "tags": ["implementation"], "ok": true}
+{"id": 2355, "tags": ["greedy", "math"], "ok": true}
+{"id": 2295, "tags": ["geometry", "math"], "ok": true}
+{"id": 2330, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 2360, "tags": ["data structures", "dfs and similar", "graphs", "trees"], "ok": true}
+{"id": 2361, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 2369, "tags": ["implementation", "strings"], "ok": true}
+{"id": 2358, "tags": ["data structures", "shortest paths"], "ok": true}
+{"id": 2387, "tags": ["bitmasks"], "ok": true}
+{"id": 2356, "tags": ["dsu", "implementation"], "ok": true}
+{"id": 2379, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 2363, "tags": ["greedy", "math", "strings"], "ok": true}
+{"id": 2403, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true}
+{"id": 2395, "tags": ["dfs and similar", "graphs", "hashing", "trees"], "ok": true}
+{"id": 2420, "tags": ["dfs and similar", "dp", "trees"], "ok": true}
+{"id": 2419, "tags": ["dfs and similar", "greedy", "trees"], "ok": true}
+{"id": 2417, "tags": ["brute force", "implementation", "sortings"], "ok": true}
+{"id": 2439, "tags": ["geometry", "sortings"], "ok": true}
+{"id": 2452, "tags": ["greedy", "strings"], "ok": true}
+{"id": 2409, "tags": ["binary search", "greedy", "sortings"], "ok": true}
+{"id": 2470, "tags": ["implementation", "math"], "ok": true}
+{"id": 2460, "tags": ["dp", "implementation"], "ok": true}
+{"id": 2436, "tags": ["constructive algorithms", "implementation"], "ok": true}
+{"id": 2459, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2406, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2481, "tags": ["greedy", "implementation", "two pointers"], "ok": true}
+{"id": 2487, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 2472, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 2486, "tags": ["data structures", "divide and conquer", "dp"], "ok": true}
+{"id": 2476, "tags": ["binary search", "data structures"], "ok": true}
+{"id": 2515, "tags": ["implementation", "math"], "ok": true}
+{"id": 2509, "tags": ["constructive algorithms", "graphs", "shortest paths"], "ok": true}
+{"id": 2497, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 2490, "tags": ["dfs and similar", "dp", "games", "graphs"], "ok": true}
+{"id": 2521, "tags": ["math", "strings"], "ok": true}
+{"id": 2531, "tags": ["math"], "ok": true}
+{"id": 2496, "tags": ["interactive", "probabilities", "trees"], "ok": true}
+{"id": 2536, "tags": ["combinatorics", "math", "sortings"], "ok": true}
+{"id": 2540, "tags": ["sortings"], "ok": true}
+{"id": 2547, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 2534, "tags": ["data structures", "dp"], "ok": true}
+{"id": 2551, "tags": ["brute force", "math"], "ok": true}
+{"id": 2532, "tags": ["dp", "geometry", "graphs"], "ok": true}
+{"id": 2548, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 2559, "tags": ["data structures", "dsu"], "ok": true}
+{"id": 2570, "tags": ["data structures", "sortings"], "ok": true}
+{"id": 2562, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 2555, "tags": ["binary search", "dp", "two pointers"], "ok": true}
+{"id": 2576, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 2574, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 2584, "tags": ["implementation"], "ok": true}
+{"id": 2586, "tags": ["data structures", "math"], "ok": true}
+{"id": 2578, "tags": ["brute force", "strings"], "ok": true}
+{"id": 2601, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2618, "tags": ["chinese remainder theorem", "math", "number theory"], "ok": true}
+{"id": 2607, "tags": ["bitmasks", "brute force"], "ok": true}
+{"id": 2634, "tags": ["geometry"], "ok": true}
+{"id": 2648, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 2649, "tags": ["bitmasks", "constructive algorithms", "dp", "geometry"], "ok": true}
+{"id": 2651, "tags": ["bitmasks", "constructive algorithms", "interactive", "math"], "ok": true}
+{"id": 2638, "tags": ["constructive algorithms", "sortings"], "ok": true}
+{"id": 2642, "tags": ["dfs and similar", "graphs", "greedy", "sortings"], "ok": true}
+{"id": 2654, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 2658, "tags": ["dp"], "ok": true}
+{"id": 2593, "tags": ["binary search", "math"], "ok": true}
+{"id": 2668, "tags": ["games", "greedy", "sortings", "strings", "two pointers"], "ok": true}
+{"id": 2663, "tags": ["implementation", "math"], "ok": true}
+{"id": 2675, "tags": ["geometry"], "ok": true}
+{"id": 2662, "tags": ["dp", "graphs"], "ok": true}
+{"id": 2683, "tags": ["math", "number theory"], "ok": true}
+{"id": 2678, "tags": ["brute force", "constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 2692, "tags": ["constructive algorithms", "greedy", "sortings"], "ok": true}
+{"id": 2702, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 2714, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 2712, "tags": ["constructive algorithms", "greedy", "trees"], "ok": true}
+{"id": 2715, "tags": ["implementation", "math"], "ok": true}
+{"id": 2724, "tags": ["constructive algorithms", "implementation"], "ok": true}
+{"id": 2694, "tags": ["bitmasks", "data structures", "divide and conquer", "dp"], "ok": true}
+{"id": 2725, "tags": ["constructive algorithms", "greedy", "strings"], "ok": true}
+{"id": 2656, "tags": ["data structures", "dp", "matrices"], "ok": true}
+{"id": 2732, "tags": ["greedy"], "ok": true}
+{"id": 2727, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 2741, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 2754, "tags": ["binary search", "dfs and similar", "greedy", "sortings", "trees", "two pointers"], "ok": true}
+{"id": 2722, "tags": ["data structures", "strings"], "ok": true}
+{"id": 2729, "tags": ["data structures", "sortings"], "ok": true}
+{"id": 2772, "tags": ["combinatorics", "dfs and similar", "math", "trees"], "ok": true}
+{"id": 2807, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2809, "tags": ["greedy", "strings"], "ok": true}
+{"id": 2757, "tags": ["dfs and similar", "dp", "trees"], "ok": true}
+{"id": 2758, "tags": ["flows", "graph matchings", "greedy", "sortings"], "ok": true}
+{"id": 2811, "tags": ["dfs and similar", "graphs", "shortest paths", "trees"], "ok": true}
+{"id": 2813, "tags": ["dfs and similar", "dsu", "graphs", "greedy"], "ok": true}
+{"id": 2826, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 2845, "tags": ["constructive algorithms", "greedy", "two pointers"], "ok": true}
+{"id": 2827, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 2801, "tags": ["greedy", "math"], "ok": true}
+{"id": 2847, "tags": ["data structures", "math", "number theory"], "ok": true}
+{"id": 2855, "tags": ["bitmasks", "combinatorics", "dp"], "ok": true}
+{"id": 2860, "tags": ["bitmasks", "greedy"], "ok": true}
+{"id": 2871, "tags": ["greedy", "implementation", "math"], "ok": true}
+{"id": 2899, "tags": ["dp", "greedy"], "ok": true}
+{"id": 2888, "tags": ["binary search", "math", "sortings", "two pointers"], "ok": true}
+{"id": 2877, "tags": ["combinatorics", "dp", "math"], "ok": true}
+{"id": 2921, "tags": ["data structures", "strings", "trees"], "ok": true}
+{"id": 2916, "tags": ["combinatorics", "dfs and similar", "trees"], "ok": true}
+{"id": 2907, "tags": ["dfs and similar", "dp", "graphs", "trees"], "ok": true}
+{"id": 2942, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true}
+{"id": 2853, "tags": ["combinatorics", "dp", "math", "sortings", "two pointers"], "ok": true}
+{"id": 2933, "tags": ["math", "probabilities"], "ok": true}
+{"id": 2964, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 2965, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 2947, "tags": ["dp"], "ok": true}
+{"id": 2970, "tags": ["constructive algorithms"], "ok": true}
+{"id": 2889, "tags": ["binary search", "math", "number theory", "two pointers"], "ok": true}
+{"id": 2974, "tags": ["dfs and similar", "dp", "graphs"], "ok": true}
+{"id": 2983, "tags": ["dfs and similar", "dp", "flows", "graphs", "hashing"], "ok": true}
+{"id": 2981, "tags": ["dp", "greedy", "strings"], "ok": true}
+{"id": 3030, "tags": ["dfs and similar", "dp", "graphs"], "ok": true}
+{"id": 3050, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 3046, "tags": ["implementation"], "ok": true}
+{"id": 3044, "tags": ["graphs", "shortest paths"], "ok": true}
+{"id": 3045, "tags": ["implementation", "math"], "ok": true}
+{"id": 3080, "tags": ["dp", "shortest paths"], "ok": true}
+{"id": 3058, "tags": ["dp"], "ok": true}
+{"id": 3059, "tags": ["combinatorics", "dp", "math"], "ok": true}
+{"id": 3036, "tags": ["dfs and similar", "graphs", "greedy"], "ok": true}
+{"id": 3098, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 3109, "tags": ["bitmasks", "meet-in-the-middle"], "ok": true}
+{"id": 3089, "tags": ["binary search", "math"], "ok": true}
+{"id": 3106, "tags": ["games", "math"], "ok": true}
+{"id": 3107, "tags": ["dp"], "ok": true}
+{"id": 3131, "tags": ["implementation", "math"], "ok": true}
+{"id": 3123, "tags": ["constructive algorithms", "graphs"], "ok": true}
+{"id": 3115, "tags": ["dfs and similar", "dp", "graphs"], "ok": true}
+{"id": 3164, "tags": ["dfs and similar", "dp", "trees"], "ok": true}
+{"id": 3138, "tags": ["dp", "math"], "ok": true}
+{"id": 3169, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 3136, "tags": ["brute force", "dp", "math", "number theory"], "ok": true}
+{"id": 3141, "tags": ["constructive algorithms", "geometry", "math"], "ok": true}
+{"id": 3183, "tags": ["string suffix structures", "strings"], "ok": true}
+{"id": 3178, "tags": ["dfs and similar", "dp", "geometry", "greedy", "trees"], "ok": true}
+{"id": 3172, "tags": ["dfs and similar", "dsu", "graphs", "trees"], "ok": true}
+{"id": 3185, "tags": ["dp", "games"], "ok": true}
+{"id": 3188, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 3205, "tags": ["binary search", "greedy", "strings"], "ok": true}
+{"id": 3192, "tags": ["math", "probabilities"], "ok": true}
+{"id": 3198, "tags": ["data structures", "implementation", "strings", "trees"], "ok": true}
+{"id": 3207, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 3187, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 3240, "tags": ["implementation", "math"], "ok": true}
+{"id": 3239, "tags": ["implementation"], "ok": true}
+{"id": 3241, "tags": ["constructive algorithms", "data structures"], "ok": true}
+{"id": 3247, "tags": ["bitmasks", "greedy", "strings"], "ok": true}
+{"id": 3262, "tags": ["data structures", "dfs and similar", "trees"], "ok": true}
+{"id": 3268, "tags": ["constructive algorithms", "greedy", "two pointers"], "ok": true}
+{"id": 3258, "tags": ["brute force", "geometry"], "ok": true}
+{"id": 3199, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 3273, "tags": ["greedy", "math", "number theory"], "ok": true}
+{"id": 3264, "tags": ["2-sat", "dfs and similar", "dsu", "graphs", "greedy"], "ok": true}
+{"id": 3301, "tags": ["chinese remainder theorem", "math", "number theory"], "ok": true}
+{"id": 3294, "tags": ["constructive algorithms", "graphs", "probabilities"], "ok": true}
+{"id": 3272, "tags": ["dfs and similar", "greedy", "sortings", "trees"], "ok": true}
+{"id": 3334, "tags": ["binary search", "dfs and similar", "dp", "math", "probabilities", "trees"], "ok": true}
+{"id": 3370, "tags": ["math", "sortings"], "ok": true}
+{"id": 3368, "tags": ["data structures", "dsu", "string suffix structures", "strings"], "ok": true}
+{"id": 3357, "tags": ["constructive algorithms", "greedy", "string suffix structures", "strings"], "ok": true}
+{"id": 3352, "tags": ["dp", "greedy", "math", "sortings", "ternary search"], "ok": true}
+{"id": 3374, "tags": ["dp", "trees"], "ok": true}
+{"id": 3380, "tags": ["constructive algorithms", "graphs", "greedy", "sortings"], "ok": true}
+{"id": 3393, "tags": ["brute force", "greedy", "implementation"], "ok": true}
+{"id": 3394, "tags": ["data structures", "sortings"], "ok": true}
+{"id": 3379, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 3410, "tags": ["dfs and similar", "graphs", "trees"], "ok": true}
+{"id": 3412, "tags": ["divide and conquer", "dp"], "ok": true}
+{"id": 3406, "tags": ["math"], "ok": true}
+{"id": 3415, "tags": ["bitmasks", "constructive algorithms", "dfs and similar", "graphs"], "ok": true}
+{"id": 3373, "tags": ["combinatorics", "data structures", "math"], "ok": true}
+{"id": 3425, "tags": ["binary search", "data structures", "math"], "ok": true}
+{"id": 3427, "tags": ["data structures", "math", "probabilities"], "ok": true}
+{"id": 3429, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 3431, "tags": ["brute force", "greedy", "math", "ternary search"], "ok": true}
+{"id": 3411, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 3453, "tags": ["binary search", "combinatorics", "data structures", "math"], "ok": true}
+{"id": 3454, "tags": ["binary search", "geometry", "math"], "ok": true}
+{"id": 3468, "tags": ["constructive algorithms", "greedy", "math", "number theory"], "ok": true}
+{"id": 3467, "tags": ["dp"], "ok": true}
+{"id": 3458, "tags": ["dfs and similar", "graphs", "trees", "two pointers"], "ok": true}
+{"id": 3459, "tags": ["implementation", "strings"], "ok": true}
+{"id": 3471, "tags": ["combinatorics", "sortings", "two pointers"], "ok": true}
+{"id": 3473, "tags": ["constructive algorithms", "dfs and similar", "graphs", "trees"], "ok": true}
+{"id": 3482, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 3485, "tags": ["data structures", "math", "number theory"], "ok": true}
+{"id": 3451, "tags": ["brute force", "greedy", "sortings"], "ok": true}
+{"id": 3476, "tags": ["constructive algorithms", "geometry"], "ok": true}
+{"id": 3494, "tags": ["combinatorics", "math"], "ok": true}
+{"id": 3492, "tags": ["constructive algorithms", "greedy", "sortings"], "ok": true}
+{"id": 3511, "tags": ["data structures", "dfs and similar", "dp", "greedy", "trees"], "ok": true}
+{"id": 3519, "tags": ["constructive algorithms"], "ok": true}
+{"id": 3517, "tags": ["constructive algorithms", "trees"], "ok": true}
+{"id": 3496, "tags": ["dp"], "ok": true}
+{"id": 3536, "tags": ["binary search", "brute force", "data structures", "two pointers"], "ok": true}
+{"id": 3551, "tags": ["math", "number theory"], "ok": true}
+{"id": 3556, "tags": ["data structures", "dp", "greedy"], "ok": true}
+{"id": 3528, "tags": ["bitmasks", "data structures", "math"], "ok": true}
+{"id": 3558, "tags": ["bitmasks", "dp", "greedy", "sortings"], "ok": true}
+{"id": 3570, "tags": ["dp", "hashing", "strings"], "ok": true}
+{"id": 3561, "tags": ["brute force", "implementation"], "ok": true}
+{"id": 3583, "tags": ["binary search", "data structures", "two pointers"], "ok": true}
+{"id": 3592, "tags": ["constructive algorithms", "geometry", "math"], "ok": true}
+{"id": 3559, "tags": ["graphs", "shortest paths", "sortings"], "ok": true}
+{"id": 3574, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 3547, "tags": ["greedy", "math", "sortings"], "ok": true}
+{"id": 3593, "tags": ["brute force", "constructive algorithms", "data structures", "graphs"], "ok": true}
+{"id": 3604, "tags": ["binary search", "dfs and similar", "dp", "trees"], "ok": true}
+{"id": 3601, "tags": ["bitmasks", "math", "matrices"], "ok": true}
+{"id": 3607, "tags": ["bitmasks", "dp"], "ok": true}
+{"id": 3573, "tags": ["greedy", "math"], "ok": true}
+{"id": 3617, "tags": ["dfs and similar", "graphs"], "ok": true}
+{"id": 3618, "tags": ["dp", "greedy", "math"], "ok": true}
+{"id": 3625, "tags": ["dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 3614, "tags": ["brute force", "data structures", "math", "number theory"], "ok": true}
+{"id": 3619, "tags": ["greedy"], "ok": true}
+{"id": 3613, "tags": ["bitmasks", "data structures", "trees"], "ok": true}
+{"id": 3639, "tags": ["data structures"], "ok": true}
+{"id": 3647, "tags": ["data structures", "sortings"], "ok": true}
+{"id": 3646, "tags": ["data structures", "math", "probabilities"], "ok": true}
+{"id": 3660, "tags": ["dp", "implementation"], "ok": true}
+{"id": 3667, "tags": ["binary search", "sortings", "two pointers"], "ok": true}
+{"id": 3674, "tags": ["data structures", "dfs and similar", "trees"], "ok": true}
+{"id": 3626, "tags": ["brute force", "dfs and similar", "graphs", "shortest paths"], "ok": true}
+{"id": 3694, "tags": ["games", "math"], "ok": true}
+{"id": 3712, "tags": ["dp", "expression parsing", "implementation", "strings"], "ok": true}
+{"id": 3658, "tags": ["combinatorics", "dp", "greedy"], "ok": true}
+{"id": 3682, "tags": ["dfs and similar", "dp", "graphs", "trees"], "ok": true}
+{"id": 3724, "tags": ["math"], "ok": true}
+{"id": 3730, "tags": ["combinatorics", "data structures", "implementation", "math"], "ok": true}
+{"id": 3732, "tags": ["constructive algorithms", "geometry", "interactive", "math"], "ok": true}
+{"id": 3750, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 3754, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 3745, "tags": ["combinatorics", "geometry", "math"], "ok": true}
+{"id": 3765, "tags": ["graphs", "shortest paths"], "ok": true}
+{"id": 3783, "tags": ["math", "number theory"], "ok": true}
+{"id": 3785, "tags": ["math", "number theory"], "ok": true}
+{"id": 3784, "tags": ["math"], "ok": true}
+{"id": 3780, "tags": ["constructive algorithms", "greedy", "strings", "two pointers"], "ok": true}
+{"id": 3797, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true}
+{"id": 3805, "tags": ["dp"], "ok": true}
+{"id": 3814, "tags": ["implementation", "sortings"], "ok": true}
+{"id": 3807, "tags": ["implementation", "strings"], "ok": true}
+{"id": 3772, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 3827, "tags": ["greedy", "two pointers"], "ok": true}
+{"id": 3840, "tags": ["implementation"], "ok": true}
+{"id": 3828, "tags": ["math"], "ok": true}
+{"id": 3832, "tags": ["dfs and similar", "dp", "games", "trees"], "ok": true}
+{"id": 3845, "tags": ["binary search", "data structures", "dp", "sortings"], "ok": true}
+{"id": 3846, "tags": ["dfs and similar", "dsu", "graphs", "shortest paths"], "ok": true}
+{"id": 3852, "tags": ["constructive algorithms", "greedy", "strings"], "ok": true}
+{"id": 3848, "tags": ["binary search", "greedy", "sortings", "two pointers"], "ok": true}
+{"id": 3789, "tags": ["binary search", "dfs and similar", "greedy", "trees", "two pointers"], "ok": true}
+{"id": 3847, "tags": ["math", "strings"], "ok": true}
+{"id": 3854, "tags": ["dp"], "ok": true}
+{"id": 3882, "tags": ["constructive algorithms", "greedy", "sortings"], "ok": true}
+{"id": 3856, "tags": ["bitmasks", "greedy", "math"], "ok": true}
+{"id": 3865, "tags": ["games", "greedy"], "ok": true}
+{"id": 3891, "tags": ["implementation", "strings"], "ok": true}
+{"id": 3864, "tags": ["combinatorics", "data structures", "dfs and similar", "math", "trees"], "ok": true}
+{"id": 3889, "tags": ["greedy", "math", "shortest paths"], "ok": true}
+{"id": 3894, "tags": ["implementation", "strings"], "ok": true}
+{"id": 3896, "tags": ["brute force", "data structures", "strings"], "ok": true}
+{"id": 3906, "tags": ["combinatorics", "math", "sortings"], "ok": true}
+{"id": 3886, "tags": ["constructive algorithms", "data structures", "greedy"], "ok": true}
+{"id": 3918, "tags": ["interactive", "math", "number theory", "probabilities"], "ok": true}
+{"id": 3920, "tags": ["brute force", "math"], "ok": true}
+{"id": 3915, "tags": ["data structures", "math"], "ok": true}
+{"id": 3892, "tags": ["binary search", "greedy", "math"], "ok": true}
+{"id": 3928, "tags": ["bitmasks", "combinatorics", "dp", "math"], "ok": true}
+{"id": 3946, "tags": ["math", "number theory"], "ok": true}
+{"id": 3934, "tags": ["constructive algorithms", "sortings", "strings"], "ok": true}
+{"id": 3941, "tags": ["dfs and similar", "dsu", "graphs", "greedy", "trees"], "ok": true}
+{"id": 3966, "tags": ["constructive algorithms", "trees"], "ok": true}
+{"id": 3932, "tags": ["bitmasks", "dp", "greedy"], "ok": true}
+{"id": 3951, "tags": ["greedy", "math", "number theory", "two pointers"], "ok": true}
+{"id": 3921, "tags": ["combinatorics", "data structures", "divide and conquer", "math"], "ok": true}
+{"id": 3969, "tags": ["data structures", "dp"], "ok": true}
+{"id": 4040, "tags": ["brute force", "data structures", "implementation"], "ok": true}
+{"id": 4044, "tags": ["constructive algorithms", "graphs", "greedy", "math"], "ok": true}
+{"id": 3992, "tags": ["dp", "number theory", "two pointers"], "ok": true}
+{"id": 4047, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 4049, "tags": ["data structures", "dfs and similar", "trees"], "ok": true}
+{"id": 3985, "tags": ["dp", "matrices"], "ok": true}
+{"id": 4048, "tags": ["dfs and similar", "trees"], "ok": true}
+{"id": 4060, "tags": ["games", "greedy"], "ok": true}
+{"id": 4054, "tags": ["constructive algorithms", "greedy", "implementation", "two pointers"], "ok": true}
+{"id": 4080, "tags": ["implementation", "strings"], "ok": true}
+{"id": 4089, "tags": ["combinatorics", "divide and conquer", "fft", "math", "trees"], "ok": true}
+{"id": 4111, "tags": ["sortings"], "ok": true}
+{"id": 4086, "tags": ["dfs and similar", "graphs"], "ok": true}
+{"id": 4114, "tags": ["data structures", "greedy", "math", "sortings"], "ok": true}
+{"id": 4118, "tags": ["bitmasks", "constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4120, "tags": ["graphs", "greedy", "interactive", "sortings", "trees"], "ok": true}
+{"id": 4127, "tags": ["greedy", "strings"], "ok": true}
+{"id": 4154, "tags": ["brute force", "constructive algorithms", "implementation"], "ok": true}
+{"id": 4085, "tags": ["dp"], "ok": true}
+{"id": 4141, "tags": ["data structures", "greedy", "sortings"], "ok": true}
+{"id": 4140, "tags": ["binary search", "greedy", "math"], "ok": true}
+{"id": 4163, "tags": ["binary search", "geometry", "greedy", "math", "ternary search"], "ok": true}
+{"id": 4166, "tags": ["data structures", "greedy", "sortings"], "ok": true}
+{"id": 4182, "tags": ["binary search", "greedy", "math"], "ok": true}
+{"id": 4169, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 4191, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 4189, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 4202, "tags": ["dsu", "greedy", "strings"], "ok": true}
+{"id": 4214, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4245, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4229, "tags": ["constructive algorithms", "trees"], "ok": true}
+{"id": 4210, "tags": ["combinatorics", "dp", "math", "probabilities", "trees"], "ok": true}
+{"id": 4250, "tags": ["bitmasks", "constructive algorithms", "graphs"], "ok": true}
+{"id": 4211, "tags": ["dp", "math"], "ok": true}
+{"id": 4265, "tags": ["brute force", "math", "number theory"], "ok": true}
+{"id": 4260, "tags": ["math"], "ok": true}
+{"id": 4266, "tags": ["greedy", "math"], "ok": true}
+{"id": 4270, "tags": ["binary search", "bitmasks", "dp"], "ok": true}
+{"id": 4274, "tags": ["brute force", "constructive algorithms"], "ok": true}
+{"id": 4267, "tags": ["greedy", "math"], "ok": true}
+{"id": 4277, "tags": ["combinatorics", "games", "math"], "ok": true}
+{"id": 4284, "tags": ["binary search", "math", "number theory"], "ok": true}
+{"id": 4281, "tags": ["bitmasks", "constructive algorithms", "math"], "ok": true}
+{"id": 4283, "tags": ["graphs", "greedy", "shortest paths"], "ok": true}
+{"id": 4303, "tags": ["greedy", "math", "sortings"], "ok": true}
+{"id": 4287, "tags": ["brute force", "strings"], "ok": true}
+{"id": 4294, "tags": ["graphs", "math", "number theory", "strings"], "ok": true}
+{"id": 4334, "tags": ["binary search", "constructive algorithms", "interactive"], "ok": true}
+{"id": 4325, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 4323, "tags": ["bitmasks", "data structures", "math"], "ok": true}
+{"id": 4370, "tags": ["brute force", "math"], "ok": true}
+{"id": 4333, "tags": ["brute force", "math"], "ok": true}
+{"id": 4330, "tags": ["dsu", "greedy"], "ok": true}
+{"id": 4364, "tags": ["dp", "greedy", "implementation"], "ok": true}
+{"id": 4381, "tags": ["constructive algorithms", "math", "number theory"], "ok": true}
+{"id": 4339, "tags": ["binary search", "dp"], "ok": true}
+{"id": 4378, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 4392, "tags": ["bitmasks", "combinatorics", "dp", "math"], "ok": true}
+{"id": 4393, "tags": ["dp", "implementation", "strings"], "ok": true}
+{"id": 4411, "tags": ["data structures", "dp", "greedy", "two pointers"], "ok": true}
+{"id": 4383, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 4421, "tags": ["binary search", "math", "ternary search"], "ok": true}
+{"id": 4388, "tags": ["dp", "math"], "ok": true}
+{"id": 4405, "tags": ["binary search", "bitmasks", "greedy", "two pointers"], "ok": true}
+{"id": 4423, "tags": ["greedy", "math"], "ok": true}
+{"id": 4427, "tags": ["bitmasks", "math"], "ok": true}
+{"id": 4436, "tags": ["combinatorics", "math"], "ok": true}
+{"id": 4449, "tags": ["constructive algorithms", "data structures", "math", "sortings"], "ok": true}
+{"id": 4462, "tags": ["brute force", "constructive algorithms", "math"], "ok": true}
+{"id": 4457, "tags": ["brute force", "dfs and similar", "math"], "ok": true}
+{"id": 4471, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 4458, "tags": ["constructive algorithms", "geometry", "greedy"], "ok": true}
+{"id": 4460, "tags": ["constructive algorithms", "greedy", "sortings"], "ok": true}
+{"id": 4503, "tags": ["bitmasks", "combinatorics", "dp", "strings"], "ok": true}
+{"id": 4543, "tags": ["greedy", "implementation", "strings", "two pointers"], "ok": true}
+{"id": 4507, "tags": ["binary search", "constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4562, "tags": ["dp", "math", "probabilities"], "ok": true}
+{"id": 4539, "tags": ["binary search", "greedy", "sortings"], "ok": true}
+{"id": 4494, "tags": ["greedy", "strings"], "ok": true}
+{"id": 4566, "tags": ["constructive algorithms", "games", "interactive"], "ok": true}
+{"id": 4575, "tags": ["implementation"], "ok": true}
+{"id": 4584, "tags": ["constructive algorithms", "dfs and similar", "greedy", "implementation"], "ok": true}
+{"id": 4576, "tags": ["data structures", "implementation", "sortings"], "ok": true}
+{"id": 4589, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 4587, "tags": ["greedy", "strings"], "ok": true}
+{"id": 4605, "tags": ["brute force", "implementation", "strings"], "ok": true}
+{"id": 4594, "tags": ["dp", "graphs"], "ok": true}
+{"id": 4618, "tags": ["brute force", "math"], "ok": true}
+{"id": 4621, "tags": ["constructive algorithms", "greedy", "implementation"], "ok": true}
+{"id": 4568, "tags": ["2-sat", "data structures", "dfs and similar", "dsu", "graphs", "greedy"], "ok": true}
+{"id": 4609, "tags": ["greedy", "implementation", "sortings"], "ok": true}
+{"id": 4593, "tags": ["bitmasks", "combinatorics", "divide and conquer", "dp", "trees"], "ok": true}
+{"id": 4626, "tags": ["constructive algorithms", "greedy", "math", "number theory"], "ok": true}
+{"id": 4632, "tags": ["data structures", "sortings", "strings"], "ok": true}
+{"id": 4635, "tags": ["data structures", "dp"], "ok": true}
+{"id": 4625, "tags": ["brute force", "combinatorics", "math", "number theory"], "ok": true}
+{"id": 4646, "tags": ["bitmasks", "dfs and similar", "dsu", "graphs", "greedy"], "ok": true}
+{"id": 4653, "tags": ["brute force", "implementation", "math"], "ok": true}
+{"id": 4627, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 4663, "tags": ["implementation", "math"], "ok": true}
+{"id": 4661, "tags": ["implementation"], "ok": true}
+{"id": 4647, "tags": ["constructive algorithms", "dp", "strings"], "ok": true}
+{"id": 4671, "tags": ["brute force", "constructive algorithms", "greedy", "implementation", "sortings"], "ok": true}
+{"id": 4668, "tags": ["greedy", "math", "sortings"], "ok": true}
+{"id": 4669, "tags": ["constructive algorithms", "math"], "ok": true}
+{"id": 4681, "tags": ["binary search", "data structures", "number theory", "two pointers"], "ok": true}
+{"id": 4706, "tags": ["dp", "greedy"], "ok": true}
+{"id": 4703, "tags": ["brute force"], "ok": true}
+{"id": 4728, "tags": ["binary search", "greedy", "implementation"], "ok": true}
+{"id": 4715, "tags": ["math", "number theory"], "ok": true}
+{"id": 4656, "tags": ["constructive algorithms", "math", "trees"], "ok": true}
+{"id": 4756, "tags": ["constructive algorithms", "greedy", "strings"], "ok": true}
+{"id": 4711, "tags": ["combinatorics", "dfs and similar", "graph matchings", "graphs", "math"], "ok": true}
+{"id": 4759, "tags": ["bitmasks", "greedy", "math"], "ok": true}
+{"id": 4769, "tags": ["data structures", "math"], "ok": true}
+{"id": 4764, "tags": ["math"], "ok": true}
+{"id": 4771, "tags": ["math"], "ok": true}
+{"id": 4780, "tags": ["implementation", "math", "probabilities"], "ok": true}
+{"id": 4749, "tags": ["interactive", "math", "number theory"], "ok": true}
+{"id": 4782, "tags": ["brute force", "dfs and similar", "sortings"], "ok": true}
+{"id": 4786, "tags": ["dfs and similar", "dsu", "graphs", "greedy", "trees"], "ok": true}
+{"id": 4792, "tags": ["greedy", "sortings"], "ok": true}
+{"id": 4827, "tags": ["constructive algorithms", "data structures", "greedy", "sortings"], "ok": true}
+{"id": 4836, "tags": ["binary search", "bitmasks", "data structures", "greedy"], "ok": true}
+{"id": 4839, "tags": ["constructive algorithms", "greedy"], "ok": true}
+{"id": 4803, "tags": ["brute force", "data structures", "sortings"], "ok": true}
+{"id": 4694, "tags": ["dp", "interactive"], "ok": true}
+{"id": 4847, "tags": ["data structures", "greedy"], "ok": true}
+{"id": 4855, "tags": ["data structures", "implementation"], "ok": true}
+{"id": 4865, "tags": ["constructive algorithms", "dfs and similar", "graphs"], "ok": true}
+{"id": 4860, "tags": ["constructive algorithms", "strings"], "ok": true}
+{"id": 4867, "tags": ["brute force", "dp", "greedy", "implementation"], "ok": true}
+{"id": 4790, "tags": ["geometry", "math"], "ok": true}
+{"id": 4842, "tags": ["dp", "greedy"], "ok": true}
+{"id": 4874, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4883, "tags": ["greedy", "implementation", "strings"], "ok": true}
+{"id": 4889, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4869, "tags": ["combinatorics", "data structures", "math"], "ok": true}
+{"id": 4921, "tags": ["implementation", "strings"], "ok": true}
+{"id": 4950, "tags": ["implementation", "math"], "ok": true}
+{"id": 4919, "tags": ["dp"], "ok": true}
+{"id": 4925, "tags": ["bitmasks", "constructive algorithms"], "ok": true}
+{"id": 4941, "tags": ["greedy", "implementation"], "ok": true}
+{"id": 4895, "tags": ["bitmasks", "dp", "math"], "ok": true}
+{"id": 4951, "tags": ["greedy", "sortings", "two pointers"], "ok": true}
+{"id": 4962, "tags": ["math"], "ok": true}
+{"id": 4958, "tags": ["constructive algorithms", "greedy", "math"], "ok": true}
+{"id": 4956, "tags": ["greedy", "math"], "ok": true}
+{"id": 4971, "tags": ["binary search", "data structures", "greedy", "math"], "ok": true}
